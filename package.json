@@ -64,13 +64,13 @@
     "webpack-dev-server": "^3.9.0"
   },
   "bugs": {
-    "url": "https://github.com/gndx/platzi-store/issues"
+    "url": "https://github.com/juliocesardeveloper/platzi-store/issues"
   },
-  "homepage": "https://github.com/gndx/platzi-store/#readme",
+  "homepage": "https://github.com/juliocesardeveloper/platzi-store/#readme",
   "jest": {
     "verbose": true,
     "setupFilesAfterEnv": [
-      "<rootDir>/src/__test__/setup.test.js"
+      "<rootDir>/src/__test__/setupTest.js"
     ],
     "moduleNameMapper": {
       "\\.(styl|css)$": "<rootDir>/src/__mocks__/styleMock.js"
